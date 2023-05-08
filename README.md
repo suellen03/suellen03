@@ -1,5 +1,7 @@
 • Hi, I'm Suellen Nunes da Silva 👋
-• I'm currently develop: Cross-platform applications in Flutter/Dart 
+
+• I'm currently develop: Cross-platform applications in Flutter/Dart
+
 • I’m currently learning programation in SENAC GO using HTML/CSS/JS
 
 ![](https://github-readme-stats.vercel.app/api?username=suellen03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
